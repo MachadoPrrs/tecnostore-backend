@@ -1,7 +1,7 @@
 {
   "name": "tecnostore",
   "version": "1.0.0",
-  "description": "Learning Node, Express and MongoDB",
+  "description": "Project with mongodb and express",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
